@@ -1,4 +1,4 @@
-#Introduction to MLflow and Its Importance in the Generative AI Era
+# Introduction to MLflow and Its Importance in the Generative AI Era
 
 This document introduces MLflow, explains why it has become essential in modern Generative AI (GenAI) workflows, and describes how it fits into the broader LLM lifecycle. The goal is to build a strong conceptual foundation before moving into hands-on tutorials.
 
@@ -81,7 +81,7 @@ This evolution has created the need for more robust tracking and observability t
 
 MLflow consists of four main components. Each maps directly to key parts of LLM and RAG workflows.
 
-###MLflow Tracking
+### MLflow Tracking
 
 Used to log:
    -prompts
@@ -95,10 +95,7 @@ Used to log:
 This enables experiment comparison and reproducibility.
 
 
-
-
-###Model Registry
-
+### Model Registry
 A central repository for:
   - storing model versions
   - promoting models to staging or production
